@@ -5,13 +5,13 @@ import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import Image from 'react-bootstrap/Image';
 import Logo from  '../assets/logotipo/logotipo.png';
-
+import '../navigation/Navigation.css';
 
 const Navigation = () => {
   return (
 
      <Navbar expand="lg" bg="dark" data-bs-theme="dark">
-    <Container>
+    <Container class="logotipo">
     <Navbar.Brand href="/home"> <Image src={Logo}  fluid  width="100px"/></Navbar.Brand>
    
     </Container>
@@ -25,14 +25,6 @@ const Navigation = () => {
       </Nav>
     </Container>
   </Navbar>
-
-
-          //  <div class="navbar2">
-          //   <NavLink to="/home">HOME</NavLink>
-          //   <NavLink to="/nosotros">NOSOTROS</NavLink>
-          //   <NavLink to="/menu">MENU</NavLink>
-          //   <NavLink to="/reservas">RESERVAS</NavLink>
-          //  </div>
   )
 }
 
