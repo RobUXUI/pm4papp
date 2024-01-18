@@ -21,7 +21,7 @@ const Navigation = () => {
            <Nav.Link href="/home">HOME</Nav.Link>
             <Nav.Link href="/nosotros">NOSOTROS</Nav.Link>
             <Nav.Link href="/menu">MENU</Nav.Link>
-            <Nav.Link href="/menu">RESERVAS</Nav.Link>
+            <Nav.Link href="/reservas">RESERVAS</Nav.Link>
       </Nav>
     </Container>
   </Navbar>
