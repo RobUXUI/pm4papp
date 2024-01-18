@@ -1,70 +1,52 @@
-# Getting Started with Create React App
+#pm4papp | Aplicación Web para "Pizzeria Best choise" 🍽️
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 1. Introducción
+ la industria restaurantera ha dado un salto impresionante hacia el mundo digital. Por eso, es crucial para mí utilizar medios digitales para brindar información 
+ y generar confianza  con los clientes. EL primer paso clave es establecer un espacio digital para mostrar los menús,  la historia y Contacto del restaurante. 🌐
 
-## Available Scripts
+## 2. Demo
+LINK: https://robuxui.github.io/PM4_RESTAURANTE_APP/ ✨
 
-In the project directory, you can run:
+## 3. Contrucción
+Desarrollando de una aplicación web para mi restaurante que contendrá:
 
-### `npm start`
+- Reserva de mesas 📅
+- Menú completo 📜
+- Diseño responsivo para móviles 📱
+- artículos 📰
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Para la gestión de datos, estoy utilizando Cloud Firestore de Firebase. 🔥
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 4. Objetivos de aprendizaje
+ aplicación web usando React y Firebase, para lo cual aplicaré:
 
-### `npm test`
+- "Vite" como el generador de mi aplicación 🚀
+- Componentes con "Hooks" 🎣
+- CSS para el diseño visual de los componentes 🎨
+- Cloud Firestore para el manejo de datos 📚
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 5. Requisitos y entregables
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### GENERAL
+- Proyecto realizado individualmente 👤
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### UI
+- Desarrollo de un prototipo simple 🔍
+- Uso de HTML semántico (HTML5) 🛠️
+- Aplicación de selectores en CSS 🎨
+- Sección informativa sobre mi restaurante 📖
+- Adaptabilidad a móviles, sección de reserva, blog con un artículo 📲
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### REACT
+- Manejo de props ✔️
+- Uso del hook useState 🔄
+- **Opcional**: Adaptabilidad a móviles, sección de reserva, blog con un artículo 📝
 
-### `npm run eject`
+### CONTROL DE VERSIONES
+- Creación de mi repositorio en GitHub 📌
+- Realización de al menos 5 commits 🔖
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### DESPLIEGUE
+- URL para compartir mi trabajo en Netlify 🌍
+- Descripción detallada dentro de mi repositorio 📄
