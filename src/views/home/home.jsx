@@ -5,7 +5,7 @@ import Row from 'react-bootstrap/Row';
 import Col from 'react-bootstrap/Col';
 import Image from 'react-bootstrap/Image';
 import Button from 'react-bootstrap/Button';
-import Banner5 from '../../../public/assets/imagenes/banners/banner5.jpg';
+import Banner5 from '../../assets/imagenes/banners/banner5.jpg';
 import '../Home/Home.css';
 
 const Home = () => {
