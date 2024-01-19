@@ -9,10 +9,10 @@ function Approutes() {
   return (
     <Routes>
       <Route path="/" element={<Layout/>}>
-      <Route path="/home" element={<Home />}/>
-      <Route path="/nosotros" element={<Nosotros />}/>
-      <Route path="/menu" element={<Menu />}/>
-      <Route path="/reservas" element={<Reservas />}/>
+      <Route path="/Home" element={<Home />}/>
+      <Route path="/Nosotros" element={<Nosotros />}/>
+      <Route path="/Menu" element={<Menu />}/>
+      <Route path="/Reservas" element={<Reservas />}/>
       </Route>
     </Routes>
   );
