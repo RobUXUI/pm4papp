@@ -1,7 +1,7 @@
 
 import { useState } from 'react';
 import { Button, Col, Form, Row, Container } from 'react-bootstrap';
-import '../Reservas/Reservas.css';
+import './Reservas.css';
 import { db } from "../../config/firebase";
 import { collection, addDoc } from 'firebase/firestore';
 import ListaReservas from '../../componentes/lista_reserva/ListaReservas';

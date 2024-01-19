@@ -4,7 +4,7 @@ import Col from 'react-bootstrap/Col';
 import Image from 'react-bootstrap/Image';
 import img_section from '../../assets/imagenes/banners/img_section.jpg';
 import img_section3 from '../../assets/imagenes/banners/img_section3.jpg'; 
-import '../Nosotros/Nosotros.css';
+import './Nosotros.css';
 
 const Nosotros = () => {
     return (
