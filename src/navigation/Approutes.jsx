@@ -1,3 +1,4 @@
+import React from 'react';
 import { Routes, Route } from 'react-router-dom';
 
 import Nosotros from '../views/Nosotros/Nosotros';
@@ -6,17 +7,17 @@ import Reservas from '../views/Reservas/Reservas';
 import Home from '../views/Home/Home';
 import Layout from '../layout/layout';
 
-function Approutes() {
+function AppRoutes() {
   return (
     <Routes>
-      <Route path="/" element={<Layout/>}>
-      <Route path="/Home" element={<Home />}/>
-      <Route path="/Nosotros" element={<Nosotros />}/>
-      <Route path="/Menu" element={<Menu />}/>
-      <Route path="/Reservas" element={<Reservas />}/>
+      <Route path="/" element={<Layout />}>
+        <Route path="/home" element={<Home />} />
+        <Route path="/nosotros" element={<Nosotros />} />
+        <Route path="/menu" element={<Menu />} />
+        <Route path="/reservas" element={<Reservas />} />
       </Route>
     </Routes>
   );
 }
 
-export default Approutes;
+export default AppRoutes;
