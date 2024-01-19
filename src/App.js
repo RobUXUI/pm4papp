@@ -1,7 +1,6 @@
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import './App.css';
-import AppRoutes from './navigation/Approutes';
 import Layout from './layout/layout';
 import Approutes from './navigation/Approutes';
 
