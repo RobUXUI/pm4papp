@@ -1,8 +1,8 @@
 import { Routes, Route } from 'react-router-dom';
-import Home from '../views/Home/Home';
-import Nosotros from '../views/Nosotros/Nosotros';
-import Menu from '../views/Menu/Menu';
-import Reservas from '../views/Reservas/Reservas';
+import Home from '../views/Home/Home.jsx';
+import Nosotros from '../views/Nosotros/Nosotros.jsx';
+import Menu from '../views/Menu/Menu.jsx';
+import Reservas from '../views/Reservas/Reservas.jsx';
 import Layout from '../layout/layout';
 
 function Approutes() {
