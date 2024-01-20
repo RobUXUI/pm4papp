@@ -3,7 +3,7 @@ import { Routes, Route } from 'react-router-dom';
 import Home from '../views/home/Home';
 import Nosotros from '../views/nosotros/Nosotros';
 import Menu from '../views/menu/Menu';
-import Reservas from '../views/reservas/Reservas';
+import Reservas from '../views/Reservas/Reservas';
 import Layout from '../layout/Layout';
 
 function AppRoutes() {
