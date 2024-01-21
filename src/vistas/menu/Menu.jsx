@@ -1,7 +1,11 @@
 
 
-import Pizzas from '../../componentes/pizzas/Pizzas.jsx';
+
 import { Container, Image, Row, Col } from "react-bootstrap";
+import { Pizzas } from "../../componentes/pizza/Pizzas";
+
+
+
 
 
 import pizza1 from "../../assets/imagenes/pizzas/pizza1.jpg";
