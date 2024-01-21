@@ -4,7 +4,7 @@ import Home from '../views/home/Home';
 import Nosotros from '../views/nosotros/Nosotros';
 import Menu from '../views/menu/Menu';
 import Reservas from '../views/Reservas/Reservas';
-import Layout from '../layout/Layout';
+// import Layout from '../layout/Layout';
 
 
 
