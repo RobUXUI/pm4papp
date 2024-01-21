@@ -1,6 +1,6 @@
 import React from 'react';
 import { Routes, Route } from 'react-router-dom';
-import Layout from '../layout/Layout';
+// import Layout from '../layout/Layout';
 import Home from '../views/home/Home';
 import Nosotros from '../views/nosotros/Nosotros';
 import Menu from '../views/menu/Menu';
@@ -15,13 +15,13 @@ function AppRoutes() {
      
     <div>
     <Routes>
-      <Route path='/' element={<Layout/>}>
+      {/* <Route path='/' element={<Layout/>}> */}
         <Route index="/home" element={<Home/>} />
         <Route path="/home" element={<Home/>} />
         <Route path="/nosotros" element={<Nosotros/>} />
         <Route path="/menu" element={<Menu/>} />
         <Route path="/reservas" element={<Reservas/>} />
-      </Route>
+      {/* </Route> */}
     </Routes>
 
     </div>
