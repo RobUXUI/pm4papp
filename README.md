@@ -4,8 +4,8 @@
  la industria restaurantera ha dado un salto impresionante hacia el mundo digital. Por eso, es crucial para mí utilizar medios digitales para brindar información 
  y generar confianza  con los clientes. EL primer paso clave es establecer un espacio digital para mostrar los menús,  la historia y Contacto del restaurante. 🌐
 
-## 2. Demo
-LINK: https://robuxui.github.io/PM4_RESTAURANTE_APP/ ✨
+## 2. Link ✨
+https://main--melodic-conkies-a9c66a.netlify.app/home 
 
 ## 3. Contrucción
 Desarrollando de una aplicación web para mi restaurante que contendrá:
