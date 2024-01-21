@@ -1,10 +1,8 @@
 
 
-import Container from "react-bootstrap/esm/Container";
-import Pizzas from '../../componentes/pizzas/Pizzas';
-import Image from "react-bootstrap/esm/Image";
-import Row from "react-bootstrap/esm/Row";
-import Col from "react-bootstrap/esm/Col";
+import Pizzas from '../../componentes/pizzas/Pizzas.jsx';
+import { Container, Image, Row, Col } from "react-bootstrap";
+
 
 import pizza1 from "../../assets/imagenes/pizzas/pizza1.jpg";
 import pizza2 from "../../assets/imagenes/pizzas/pizza2.jpg";
